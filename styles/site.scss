@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+html,body {
+    background: #dedede;
+    color: #111;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.snowflake {
+    position: fixed;
+    width: 1.5%; 
+}
