@@ -4,7 +4,7 @@
     "@unumux/eslint-config-unumux": "^1.1.0",
     "@unumux/ux-build-tools": "^3.6.0",
     "babel-eslint": "^7.1.1",
-    "eslint": "^3.15.0"
+    "eslint": "^4.18.2"
   },
   "scripts": {
     "start": "gulp --gulpfile=node_modules/@unumux/ux-build-tools/index.js --cwd=."
